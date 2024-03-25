@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="error_fetching_news">No News as of now\nPlease check in sometime.</string>
+</resources>
